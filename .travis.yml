@@ -1,3 +1,8 @@
+language: cpp
+cpp:
+- "stable"
+
+
 sudo: required
 
 services:
